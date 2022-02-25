@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prince Robert his proceedings with His Majesties army in Berkshire being the true copie of a letter sent from a gentleman at Newberie in Berkshire, containing these particulars following: viz. 1 That (by Secretary Nicholas his report) His Majesty intends to march with his army into Sussex, Kent and Essex, or to Salisbury and Southampton in the west parts. 2 That the Parliament hath petitioned His Majesty for a treaty of peace by the Earles of Northumberland and Pembroke, and some Members of the Commons. 3 The number of His Majesties army, and the number of his soldiers billeted in diverse places. 4 The effect of Prince Roberts [sic] warrants for contribution, with the quantity of money which is coyned travelling upon wheels, first invented by Leniell His Majesties engineer.</title>
+            <author>Vaux, Anthony.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55886</idno>
+            <idno type="STC">Wing P3487</idno>
+            <idno type="STC">ESTC R219095</idno>
+            <idno type="EEBO-CITATION">99830621</idno>
+            <idno type="PROQUEST">99830621</idno>
+            <idno type="VID">35074</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55886)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35074)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2054:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prince Robert his proceedings with His Majesties army in Berkshire being the true copie of a letter sent from a gentleman at Newberie in Berkshire, containing these particulars following: viz. 1 That (by Secretary Nicholas his report) His Majesty intends to march with his army into Sussex, Kent and Essex, or to Salisbury and Southampton in the west parts. 2 That the Parliament hath petitioned His Majesty for a treaty of peace by the Earles of Northumberland and Pembroke, and some Members of the Commons. 3 The number of His Majesties army, and the number of his soldiers billeted in diverse places. 4 The effect of Prince Roberts [sic] warrants for contribution, with the quantity of money which is coyned travelling upon wheels, first invented by Leniell His Majesties engineer.</title>
+                  <author>Vaux, Anthony.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Novemb. 8. Printed for J. Faber,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 6: Anthony Vaux.</note>
+                  <note>Prince Robert = Prince Rupert of the Rhine.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35074:1" rendition="simple:additions"/>
+            <p>PRINCE ROBERT HIS Proceedings with His MAJESTIES Army in BERKSHIRE: BEING The true Copie of a Letter ſent from a Gentleman at <hi>Newberie</hi> in <hi>Berkſhire,</hi> containing theſe Particulars following: viz.
+<list>
+                  <item>1 That (by Secretary NICHOLAS his repent) His Majeſty intends to march with His Army into Suſſex, Kent and Eſſex, or to Salisbury and Southampton in the Weſt Parts.</item>
+                  <item>2 That the Parliament hath pe<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>itioned His Majeſty for a treaty of peace by the Earles of Northumberland and Pembroke, and ſome Members of the Commons.</item>
+                  <item>3 The number of His Majeſties Army, and the number of His ſoldiers billeted in diverſe places.</item>
+                  <item>4 The effect of Prince ROBERTS Warrants for contribution, with the quantity of money which is coyned travelling upon wheels, firſt invented by Leniell His Majeſties Engineer.</item>
+               </list>
+            </p>
+            <p>
+               <hi>LONDON, Novemb.</hi> 8. Printed for <hi>J. Faber.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:35074:2"/>
+            <pb n="1" facs="tcp:35074:2"/>
+            <head>THE PROCEEDINGS OF PRINCE ROBERT with His MAJESTIES Army in BERKSHIRE: BEING <hi>The copie of a Letter ſent from</hi> Newberie <hi>in Berk<g ref="char:EOLhyphen"/>ſhire to a Gentleman in</hi> London.</head>
+            <opener>
+               <salute>Right Worthy Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Cannot but be obli<g ref="char:EOLhyphen"/>ged unto you for your continuall fa<g ref="char:EOLhyphen"/>vours towards me and my ſon Robert at Lincolns Inne: I have underſtood by your Letters the forwardneſſe of the City of London, and
+<pb n="2" facs="tcp:35074:3"/>the ſtrength of men, ordnance, and other implements of implements of engines in all places, for the reſiſting of His Majeſties Forces. I confeſſ poſſeſſion is it points of the Law, ſo their managing the city with ſtrength is a ſure ground of reſiſtance, but I believe to little purpoſe; for on tueſday I rid to Oxford, and through thouſands of His Majeſties Army, which exceeds the number of your relation, and having ſpent the day in the city, I came late to my home at Newberie, and there was no injury offe<g ref="char:EOLhyphen"/>red me by the way, or had forceably taken from me the value of a point, though it hath been related that neither horſmen nor footmen, waggon or carrier can travell a<g ref="char:EOLhyphen"/>bout their occaſions, but the ſoldiers make them their prey: I can aſſure you they are kept in good order, without doing pillage, as is related. And to come to my former diſcourſe, when I came to Oxford, I ſaw at the leaſt fifty burials following one ano<g ref="char:EOLhyphen"/>ther, and in an houres reſpit as many more, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich I conceived were the corps of ſome <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at at were ſlaine in the laſt fight. After this
+<pb n="3" facs="tcp:35074:3"/>I came to my Inne at the Katherine-Wheel, and I chanced upon Secretary Nicholas, with whom I drank my part of a pint of wine, and entring into diſcourſe, I gathe<g ref="char:EOLhyphen"/>red, that neither the King or his Nephew have any intent to come to London, but that they will paſſe the river at Henley, and ſo march into Suſſex and Kent, and from thence into Eſſex, where his Maieſty is aſ<g ref="char:EOLhyphen"/>ſured of a great party, if not for the preſent in thoſe Eaſterne parts, that then it is his Maieſties pleaſure to goe to Salisbury and Southampton, where he expects great aid from Hopton, Stowell, and others in the Weſt Countrey. M. Secretary Nicholas told me, that Sir John Killagrew came with a meſſage from the Parliament to pe<g ref="char:EOLhyphen"/>tition His Maieſty that the Earles of Pem<g ref="char:EOLhyphen"/>broke and Northumberland might have admittance to parley concerning a treatie of peace, and that his Maieſty was graci<g ref="char:EOLhyphen"/>ouſly pleaſed to accept thereof, provided that none before excepted in his Maieſties Declaration dated the twelfth of Auguſt, preſume to trouble his Maieſty upon paine
+<pb n="4" facs="tcp:35074:4"/>of death, and that the Commiſsioners ex<g ref="char:EOLhyphen"/>ceed not above 20. at the moſt. He certi<g ref="char:EOLhyphen"/>fied me likewiſe, that his Majeſties Forces are a great many more then ſome of your Pamphlets made mention. I cannot but believe of a greater number, for they were billeted full ten miles in length, and three miles in breadth, you may judge how they were diſperſed; for at Wallingford there lay a thouſand ſouldiers, at Twiford and Ockingham a thouſand; and on tueſday night laſt they were both pillaged, as alſo Reding hath been pillaged of at leaſt five thouſand yards of cloth, beſides other things of worth; which happened by the falſe-heartedneſſe of each other in the ſaid towne, and none elſe, as I can heare of about us: diverſe Troupes of horſe and Foot-companies are billeted at Thetcham, Wellington, and about, beſides great ſtore at Newberie, and many pettie Villages thereabouts, and the ſouldiers at Oxford and Abbington. Prince Robert hath ſent a partie to Windſore to demand the towne and Caſtle, but the meſſengers had a re<g ref="char:EOLhyphen"/>pulſe,
+<pb n="5" facs="tcp:35074:4"/>and were told by the Parliaments Forces which were billeted there, that the Prince ſhould win it and weare it: and thus much I can aſſure you; for I had it from the Secretaries own mouth.</p>
+            <p>There is one maine thing which I have omitted, and that is, the multitude of War<g ref="char:EOLhyphen"/>rants which have iſſued forth under the command of Prince Robert to all places within twenty miles of his Army, it runs in the nature of Generall Leſley his War<g ref="char:EOLhyphen"/>rants at his entring of New-Caſtle, com<g ref="char:EOLhyphen"/>manding all men to provide and bring to his Army all manner of food and ſuſte<g ref="char:EOLhyphen"/>nance for his ſouldiers reliefe, as alſo that the countrey provide both horſe and men for the aſsiſting of him in the ſaid warre, and that all thoſe that wil not aſsiſt him, to pay a contribution of money for their re<g ref="char:EOLhyphen"/>fuſall.</p>
+            <p>And this is the effect of the ſaid War<g ref="char:EOLhyphen"/>rants, as I can rightly underſtand. Plate and money is brought to his Majeſty in a<g ref="char:EOLhyphen"/>bundance, and the Coyners of his treaſure
+<pb n="6" facs="tcp:35074:5"/>carried upon wheeles, and coyne money travelling. It is a moſt excellent inventi<g ref="char:EOLhyphen"/>on of Leniell His Majeſties Engineere, whom we thought to have beene cut off in the laſt fight at Kinton. And ſo I wiſh you and yours health, leaving you to Gods protection, and reſt,</p>
+            <closer>
+               <dateline>Newberie, <date>Novemb. 4. 1642.</date>
+               </dateline>
+               <signed>Your faithfull friend, ANTHONY VAUX.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
